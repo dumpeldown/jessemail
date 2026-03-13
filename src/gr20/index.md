@@ -1,6 +1,7 @@
 ---
 layout: layouts/base.njk
 title: GR20 Corsica
+date: 2026-03-14T00:26:00.000+01:00
 ---
 
 # GR20 - Der härteste Wanderweg Europas
