@@ -28,7 +28,7 @@ Create `src/admin/config.yml`. This defines how the travel diary entries are str
 ```yaml
 backend:
   name: github
-  repo: your-username/jessemail.github.io # UPDATE THIS
+  repo: dumpeldown/jessemail
   branch: main
 
 media_folder: "src/assets/img/uploads"
