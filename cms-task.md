@@ -1,97 +1,47 @@
-# Task: Add Content Management UI (Decap CMS)
+# Decap CMS Guide for jessemail.de
 
-Goal: Allow users to add new GR20 travel diary entries directly from the website via a secure `/admin` dashboard.
+This guide explains how to manage content for the GR20 travel diary using the built-in Content Management System (Decap CMS).
 
-## 1. Create the Admin Folder
-Create a new directory `src/admin/`.
+## 🚀 Accessing the CMS
+The CMS is available at: [jessemail.de/admin](https://jessemail.de/admin)
 
-## 2. Add the Admin Entry Point
-Create `src/admin/index.html`:
+## 🛠 Local Development & Testing
+To test the CMS interface on your computer without affecting the live site:
+
+1.  **Modify `src/admin/config.yml`**:
+    Set `local_backend: true` and `backend.name: test-repo`.
+2.  **Run the Proxy Server**:
+    Open a terminal and run `npx decap-server`. This allows the browser to save files to your disk.
+3.  **Launch Site**:
+    Run `npm start` and navigate to `http://localhost:8080/admin`.
+
+---
+
+## 🔐 Production Authentication (Netlify Identity)
+Since this site is hosted on GitHub Pages but uses Netlify Identity for login, the following setup is active:
+
+### 1. The Gateway
+We use your Netlify site ([starlit-crepe-097817.netlify.app](https://starlit-crepe-097817.netlify.app)) as the Authentication Gateway.
+
+### 2. The Meta Tag
+In `src/admin/index.html`, we use a specific meta tag to link `jessemail.de` to the Netlify instance:
 ```html
-<!doctype html>
-<html>
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Content Manager</title>
-  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-</head>
-<body>
-  <!-- Include the script that builds the page and powers Decap CMS -->
-  <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
-</body>
-</html>
+<meta name="netlify-identity-site-url" content="https://starlit-crepe-097817.netlify.app">
 ```
 
-## 3. Configure the CMS
-Create `src/admin/config.yml`. This defines how the travel diary entries are structured:
-```yaml
-backend:
-  name: github
-  repo: dumpeldown/jessemail
-  branch: main
+### 3. Permissions
+Only users invited or registered via the Netlify Identity dashboard can log in. Ensure **GitHub** is enabled as an external provider in the Netlify settings.
 
-media_folder: "src/assets/img/uploads"
-public_folder: "/assets/img/uploads"
+---
 
-collections:
-  - name: "gr20"
-    label: "GR20 Journal"
-    folder: "src/gr20"
-    create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    fields:
-      - {label: "Layout", name: "layout", widget: "hidden", default: "layouts/base.njk"}
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Body", name: "body", widget: "markdown"}
-```
+## 🧠 How It Works
+1.  **Direct API Access**: When you click "Save" in the `/admin` panel, the CMS sends a request directly to the **GitHub API**.
+2.  **Auto-Commit**: GitHub automatically creates a new commit in the `main` branch with your changes.
+3.  **Auto-Deploy**: This commit triggers the **GitHub Action**, which rebuilds the static site and deploys it to the web within 1-2 minutes.
 
-## 4. Update Eleventy Configuration
-In `.eleventy.js`, add the admin folder to the passthrough copy:
-```javascript
-eleventyConfig.addPassthroughCopy("src/admin");
-```
-
-## 5. Setup Authentication
-
-### Option A: Local Testing (No Password Needed)
-To test the CMS interface on your computer without setting up any accounts:
-1. In `config.yml`, set the backend to `local`:
-   ```yaml
-   local_backend: true
-   backend:
-     name: test-repo
-   ```
-2. Run your local dev server: `npm start`.
-3. Go to `http://localhost:8080/admin`. You can now edit and "save" posts, and the `.md` files will be created directly on your hard drive.
-
-### Option B: Simplified Auth for Site Owner (Personal Access Token)
-If you just want a "password-like" experience for yourself on the live site:
-1. In `config.yml`, use the `github` backend.
-2. When you visit `/admin` on the live site, instead of clicking "Login with GitHub", you can manually provide a **Personal Access Token** (PAT) that you generate in your GitHub settings. This acts as your "long password".
-
-### Note on "Simple Passwords" for Multiple Users
-GitHub Pages is **purely static**, meaning there is no server to "check" if a password is correct.
-- If you want a traditional "Login + Password" form for other people, you must use a small external **OAuth Gateway** (like a free Vercel or Netlify function) that acts as the "checker" between the website and GitHub.
-- For a true "Simple Password" site without any Git knowledge, a platform like **Netlify** or **Cloudflare Pages** (which has built-in password protection) is often easier than GitHub Pages.
-
-## 6. How It Works (The Magic behind the /admin Endpoint)
-
-Users often wonder: "If there is no database, where does the text go?"
-
-1. **Direct Communication:** The `/admin` page is a "Single Page Application" (SPA) that runs entirely in the user's browser. It uses the **GitHub REST API** to talk directly to your repository.
-2. **Authentication:** When a user logs in (via OAuth or PAT), the browser receives a "Secret Token." This token allows the browser to act as a "mini-Git client."
-3. **The Save Process:** 
-   - When the user clicks **"Save"**, the CMS converts the editor content into a Markdown string.
-   - It sends this string to GitHub via an `HTTP PUT` request to the repository's content endpoint.
-   - **GitHub itself** performs the "Git Commit" and "Git Push" on the server side.
-4. **Triggering the Build:** As soon as GitHub finishes that commit, it detects a change on the `main` branch. This automatically kicks off your **GitHub Action** (from `.github/workflows/deploy.yml`), which builds the new HTML and updates the live site.
-
-**The result:** You get the experience of a dynamic CMS (like WordPress) while maintaining the security, speed, and cost-efficiency of a static site.
-
-## 7. Verification
-1. Navigate to `jessemail.de/admin`.
-2. Log in with your GitHub account.
-3. Create a "New GR20 Journal" entry.
-4. Verify that a new `.md` file appears in your `src/gr20/` folder on GitHub.
+## 📝 Adding New Content
+1.  Navigate to the `/admin` panel and log in.
+2.  Select the **GR20 Journal** collection.
+3.  Click **New GR20 Journal** to create a post.
+4.  Fill in the title, date, and body text.
+5.  Click **Publish** to send the changes to GitHub.
