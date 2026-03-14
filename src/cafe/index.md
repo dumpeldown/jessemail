@@ -1,25 +1,24 @@
 ---
 layout: layouts/base.njk
 title: Unser Café
-date: 2026-03-21T00:00:00.000+01:00
+date: 2026-03-14
 ---
+
 # Willkommen im Café
 
 Genießen Sie hausgemachte Spezialitäten in familiärer Atmosphäre.
 
 **Zuletzt aktualisert am {{ date | dateDisplay }}**
 
-
-
 **Unsere nächsten Öffnungszeiten:**
 
-* **Sonntag: 15.03 9 - 10 Uhr**
+* **~~Sonntag: 15.03 9 - 10 Uhr~~**
 
 ## Unsere Speisekarte
 
 ### Getränke
 
-* **Kaffee**: 3,50 € (Aber der ist fancy...)
+* **Kaffee**: 2,50 €
 * **Cappuccino**: 3,20 €
 * **Latte Macchiato**: 3,80 €
 * **Heißer Tee** (verschiedene Sorten): 2,20 €
