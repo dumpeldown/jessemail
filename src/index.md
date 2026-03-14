@@ -8,6 +8,6 @@ title: Willkommen
   <p>Immer unterwegs.</p>
   <div class="nav-links">
     <a href="/cafe" class="contact-btn">Zum Café</a>
-    <a href="/gr20" class="contact-btn">GR20 Journal</a>
+    <a href="/travel" class="contact-btn">Travel Journal</a>
   </div>
 </section>
