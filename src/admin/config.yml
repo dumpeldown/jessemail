@@ -2,6 +2,7 @@ backend:
   name: github
   repo: dumpeldown/jessemail
   branch: main
+  site_id: starlit-crepe-097817.netlify.app
 
 media_folder: "src/assets/img/uploads"
 public_folder: "/assets/img/uploads"

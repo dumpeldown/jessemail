@@ -29,7 +29,17 @@ In `src/admin/index.html`, we use a specific meta tag to link `jessemail.de` to 
 <meta name="netlify-identity-site-url" content="https://starlit-crepe-097817.netlify.app">
 ```
 
-### 3. Permissions
+### 3. The site_id Property
+In `src/admin/config.yml`, we must define the `site_id` so Netlify's auth server recognizes your custom domain:
+```yaml
+backend:
+  name: github
+  repo: dumpeldown/jessemail
+  branch: main
+  site_id: starlit-crepe-097817.netlify.app
+```
+
+### 4. Permissions
 Only users invited or registered via the Netlify Identity dashboard can log in. Ensure **GitHub** is enabled as an external provider in the Netlify settings.
 
 ---
