@@ -29,17 +29,18 @@ In `src/admin/index.html`, we use a specific meta tag to link `jessemail.de` to 
 <meta name="netlify-identity-site-url" content="https://starlit-crepe-097817.netlify.app">
 ```
 
-### 3. The site_id Property
-In `src/admin/config.yml`, we must define the `site_id` so Netlify's auth server recognizes your custom domain:
+### 3. Enable Git Gateway
+In Netlify, go to **Site Settings > Identity > Services** and click **Enable Git Gateway**. This allows the CMS to write to your repo using your Netlify login.
+
+### 4. The config.yml
+For this setup, your `src/admin/config.yml` should look like this (no `repo` or `site_id` needed):
 ```yaml
 backend:
-  name: github
-  repo: dumpeldown/jessemail
+  name: git-gateway
   branch: main
-  site_id: starlit-crepe-097817.netlify.app
 ```
 
-### 4. Permissions
+### 5. Permissions
 Only users invited or registered via the Netlify Identity dashboard can log in. Ensure **GitHub** is enabled as an external provider in the Netlify settings.
 
 ---
