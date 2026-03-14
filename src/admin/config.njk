@@ -19,20 +19,22 @@ collections:
     label: "Travel Journal"
     folder: "src/travel"
     create: true
-    slug: "{% raw %}{{year}}-{{month}}-{{day}}-{{slug}}{% endraw %}"
+    slug: "{{ '{{year}}-{{month}}-{{day}}-{{slug}}' }}"
+    identifier_field: title
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "layouts/base.njk"}
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD", format_date: "YYYY-MM-DD"}
       - {label: "Body", name: "body", widget: "markdown"}
 
   - name: "cafe"
     label: "Café"
     folder: "src/cafe"
     create: true
-    slug: "{% raw %}{{year}}-{{month}}-{{day}}-{{slug}}{% endraw %}"
+    slug: "{{ '{{year}}-{{month}}-{{day}}-{{slug}}' }}"
+    identifier_field: title
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "layouts/base.njk"}
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD", format_date: "YYYY-MM-DD"}
       - {label: "Body", name: "body", widget: "markdown"}
