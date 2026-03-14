@@ -1,9 +1,8 @@
 ---
 layout: layouts/base.njk
 title: Unser Café
-date: 2026-03-14
+date: 2026-03-21T00:00:00.000+01:00
 ---
-
 # Willkommen im Café
 
 Genießen Sie hausgemachte Spezialitäten in familiärer Atmosphäre.
@@ -13,17 +12,19 @@ Genießen Sie hausgemachte Spezialitäten in familiärer Atmosphäre.
 ## Unsere Speisekarte
 
 ### Getränke
-- **Kaffee**: 2,50 €
-- **Cappuccino**: 3,20 €
-- **Latte Macchiato**: 3,80 €
-- **Heißer Tee** (verschiedene Sorten): 2,20 €
-- **Selbstgemachte Limonade** (0,3l): 3,50 €
+
+* **Kaffee**: 3,50 € (Aber der ist fancy...)
+* **Cappuccino**: 3,20 €
+* **Latte Macchiato**: 3,80 €
+* **Heißer Tee** (verschiedene Sorten): 2,20 €
+* **Selbstgemachte Limonade** (0,3l): 3,50 €
 
 ### Speisen
-- **Hausgemachter Apfelkuchen**: 3,50 €
-- **Käsekuchen nach Omas Rezept**: 3,20 €
-- **Frisches Buttercroissant**: 1,80 €
-- **Herzhaftes Käsebrötchen**: 2,50 €
+
+* **Hausgemachter Apfelkuchen**: 3,50 €
+* **Käsekuchen nach Omas Rezept**: 3,20 €
+* **Frisches Buttercroissant**: 1,80 €
+* **Herzhaftes Käsebrötchen**: 2,50 €
 
 ## Kontakt
 
