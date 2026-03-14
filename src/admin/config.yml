@@ -1,7 +1,5 @@
 backend:
-  name: github
-  repo: dumpeldown/jessemail
-  branch: main
+  name: "git-gateway"
 
 media_folder: "src/assets/img/uploads"
 public_folder: "/assets/img/uploads"
