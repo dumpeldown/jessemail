@@ -10,5 +10,5 @@ Begleiten Sie mich auf meinem Abenteuer durch die korsischen Berge.
 ## Tagebuch
 
 * Tag 1: Calenzana nach Ortu di u Piobbu
-* Tag 2: Ortu di u Piobbu nach Carrozzu (das war hart)
+* Tag 2: Ortu di u Piobbu nach Carrozzu
   ... (mehr folgt)
