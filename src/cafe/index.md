@@ -7,7 +7,13 @@ date: 2026-03-21T00:00:00.000+01:00
 
 Genießen Sie hausgemachte Spezialitäten in familiärer Atmosphäre.
 
-**Zuletzt veröffentlicht: {{ date | dateDisplay }}**
+**Zuletzt aktualisert am {{ date | dateDisplay }}**
+
+
+
+**Unsere nächsten Öffnungszeiten:**
+
+* **Sonntag: 15.03 9 - 10 Uhr**
 
 ## Unsere Speisekarte
 
