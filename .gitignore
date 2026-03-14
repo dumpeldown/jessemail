@@ -20,4 +20,5 @@ yarn-error.log*
 *.swo
 
 # Ralph Loop state (optional to ignore, but usually better to keep local)
-.gemini/ralph-loop.local.md
+.gemini
+

@@ -2,14 +2,12 @@
 permalink: admin/config.yml
 eleventyExcludeFromCollections: true
 ---
-{% if eleventy.env.runMode == "serve" -%}
 backend:
-  name: "test-repo"
-{%- else -%}
-backend:
-  name: "git-gateway"
+  name: "github"
+  repo: "dumpeldown/jessemail"
   branch: "main"
-{%- endif %}
+
+local_backend: true
 
 media_folder: "src/assets/img/uploads"
 public_folder: "/assets/img/uploads"
