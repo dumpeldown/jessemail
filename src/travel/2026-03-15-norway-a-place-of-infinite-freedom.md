@@ -12,6 +12,8 @@ Vom Skifahren in einer Region, in der über 100 Kilometer in eine Richtung keine
 
 Nach der Fährfahrt von Kiel nach Oslo (20h, gaaanz schön lange -wir haben uns die Zeit mit Verstecken spielen auf den 8 Decks verbracht), ging es in die Hochebene Hardangervidda, genauer Rauland - mit jedem Meter, den der Bus die Berge hinaufkletterte, stieg der Schnee - erst einzelne Fleckchen, dann der erste Haufen und irgendwann hatten wir außerhalb des Busses riesige Hügel von Alt- und Neuschnee.
 
+![](/assets/img/uploads/IMG-20260320-WA0041.jpg)
+
 Kurz die Hütten beziehen (mit Sauna, na klar!) gehts sofort auf die Langlauf Skier. Jede\*r, der / die schonmal auf Skiern stand, würde ja meinen: Ski fahren verlernt man ja nicht. Well, Pustekuchen! Langlaufskier ganz anderes Level an rutschig - und so vertreiben wir uns den vormittag mit Training - Fangen spielen auf Skiern. Tanzen, Ringe schmeißen, Schubsen und Ziehen - ein echtes Kinderspielparadies. Und wer wird bei solchen Sachen nicht wieder zum Kind...
 
 Gut, genug gespielt - jetzt gehts auf die erste kleine Tour. Gegen Abends fahren wir eine Runde (ca. 5km) um den See und kommen das erste mal so richtig in den Flow. 
@@ -29,6 +31,8 @@ Wo wir gerade beim Thema sind: Polarlichter haben wir auch gesehen! War ganz sch
 ![](/assets/img/uploads/IMG-20260320-WA0083.jpg)
 
 Auf einer Tour sind wir über einen zugefrorenen See gefahren und haben dort Luchsspuren entdeckt. Ich frage mich ja immer wo die sich Tagsüber verstecken. Wer sich nicht gut versteckt, es aber eigentlich gut können sollte, sind die Schneehühner und Schneehasen, die den ganzen Tag feucht fröhlich durch die Gegend hüpfen und hoppeln.
+
+![](/assets/img/uploads/IMG-20260331-WA0071.jpg)
 
 Die Abende lassen wir immer in der Gruppe mit lecker Abendessen und Saunagängen und anschließenden Schneebaden ausklingen - gut für den Muskelkater!
 
