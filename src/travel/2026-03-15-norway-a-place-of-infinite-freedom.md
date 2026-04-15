@@ -42,13 +42,19 @@ Nach 4 Tagen in Umzug nach Lillehaven. Ein kleiner Fischerort mit ungelogen 7 (!
 
 Wir gehen Angeln, fahren mit dem Speedboot von Ryan raus und ich breche den Rekord von 13 geangelten Fischen mit groooßem Abstand vor den anderen. Diese werden am Abend sehr lecker zubereitet und schnabuliert.
 
+![](/assets/img/uploads/JBER4602.jpg)
+
 Was ist sonst so passiert? 
 
 Wanderung zum Lyndesnes Fyr, dem südlichsten Punkt Norwegens. Wir waren dort und es hatte ungelogen 60 Knoten (110km/h, für die Landratten unter euch) Wind und wir wurden ordentlich durchgepustet. 
 
+![](/assets/img/uploads/JBER5059-2026-03-Julius-Berg.jpg)
+
 Wir haben Schweinswale aus dem Boot heraus gesehen. Mein "dolpin eye" hat sie gespottet und wir konnten sie im Kreis durch die Bucht verfolgen, natürlich ohne zu nah an sie heran zu fahren.
 
 Wir haben eine Führung durch Europas einziges und das weltweit größte Unterwasserrestaurant "Under" bekommen. Von Nachhaltigkeit bis Exquisität und Luxus alles dabei - eine sehr spannende Erfahrung.
+
+![](/assets/img/uploads/PXL_20260324_095525216.jpg)
 
 Und sonst waren wir viel unterwegs - immer draußen, egal bei welchem Wetter und haben die norwegische Luft eingeatmet.
 
