@@ -58,4 +58,12 @@ Wir haben eine Führung durch Europas einziges und das weltweit größte Unterwa
 
 Und sonst waren wir viel unterwegs - immer draußen, egal bei welchem Wetter und haben die norwegische Luft eingeatmet.
 
+Ein paar Impressionen:
+
+![](/assets/img/uploads/IMG-20260331-WA0077.jpg)
+
+![](/assets/img/uploads/IMG-20260331-WA0097.jpg)
+
 Nach vollen 10 Tagen geht es wieder auf die Fähre nach Kiel zurück und wir sagen Ahoi und Tschø (kein Plan wie man Tschüss auf Norwegisch sagt aber ich find das sind sehr valide Optionen) zu Norwegen.
+
+![](/assets/img/uploads/JBER5269-2026-03-Julius-Berg.jpg)
