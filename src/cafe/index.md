@@ -1,39 +1,45 @@
 ---
 layout: layouts/base.njk
 title: Unser Café
-date: 2026-03-21T00:00:00.000+01:00
+bodyClass: cafe-page
+description: Popup Café am kommenden Wochenende
 ---
-# Willkommen im Café
+<div class="cafe-flyer">
+	<section class="cafe-poster" aria-labelledby="cafe-title">
+		<div class="cafe-stars cafe-stars--top" aria-hidden="true">
+		</div>
 
-Genießen Sie hausgemachte Spezialitäten in familiärer Atmosphäre.
+		<div class="cafe-sun" aria-hidden="true"></div>
 
-**Zuletzt aktualisert am {{ date | dateDisplay }}**
+		<div class="cafe-copy">
+			<p class="cafe-eyebrow">Popup Café</p>
+			<h1 id="cafe-title">HEUTE geöffnet</h1>
+			<p class="cafe-lead">Deine kleine Pause am Steig.</p>
 
+			<div class="cafe-stars" aria-hidden="true">
+				<span>★</span>
+			</div>
 
+			<p class="cafe-intro">Nur heute und natürlich selbst gebacken:</p>
 
-**Unsere nächsten Öffnungszeiten:**
+			<ul class="cafe-menu" aria-label="Speisekarte">
+				<li>Käsekuchen</li>
+				<li>Pflaumenkuchen</li>
+			</ul>
 
-* **Sonntag: 15.03 9 - 10 Uhr**
+			<p class="cafe-drinks">Kaffee, Kakao oder Tee</p>
 
-## Unsere Speisekarte
-
-### Getränke
-
-* **Kaffee**: 3,50 € (Aber der ist fancy...)
-* **Cappuccino**: 3,20 €
-* **Latte Macchiato**: 3,80 €
-* **Heißer Tee** (verschiedene Sorten): 2,20 €
-* **Selbstgemachte Limonade** (0,3l): 3,50 €
-
-### Speisen
-
-* **Hausgemachter Apfelkuchen**: 3,50 €
-* **Käsekuchen nach Omas Rezept**: 3,20 €
-* **Frisches Buttercroissant**: 1,80 €
-* **Herzhaftes Käsebrötchen**: 2,50 €
-
-## Kontakt
-
-Haben Sie Fragen oder möchten Sie einen Tisch reservieren?
-
-<a href="mailto:familie@jessemail.de" class="contact-btn">Schreiben Sie uns eine E-Mail</a>
+			<div class="cafe-support">
+				<a class="cafe-support__link" href="https://www.dksb-essen.de/helfen-sie-mit/spenden/jetzt-spenden/" target="_blank" rel="noopener noreferrer">
+					<span class="cafe-support__logo">
+						<img src="/assets/img/uploads/dksb-essen.png" alt="Kinderschutzbund Essen" loading="lazy">
+					</span>
+					<span class="cafe-support__copy">
+						<strong>Kinderschutzbund Essen</strong>
+						<span>Wer mag darf gerne spenden - <br>für das neue Kinderschutzhaus</span>
+					</span>
+				</a>
+			</div>
+		</div>
+	</section>
+</div>
