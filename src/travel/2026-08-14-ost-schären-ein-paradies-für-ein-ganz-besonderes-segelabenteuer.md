@@ -41,7 +41,7 @@ Und so machen wir abends Lagerfeuer und kochen unser Essen über diesem
 Auf einigen Inseln finden wir Überreste von 3000 Jahre alten magischen Steinlabyrinthen von den Wikingern, die die Fischer damals durchqueren mussten, um einen guten fang zu garantieren. Heute also unbewohnt, früher jedoch ein tatsächlich bewohntes Wikingernest! Sehr spannende Erfahrung, in diese Spuren zu treten.
 
 ![](/assets/img/uploads/WhatsApp%20Image%202026-08-21%20at%2015.55.32-1.jpeg)
- 
+
 Und so schippern wir etwa 2 Wochen lang immer wieder in diverse Richtungen und erkunden so viele Inseln wie es nur geht. Die Schären sind ein echtes Paradies für ein Segelabenteuer. Über 30.000 Inseln, die man gar nicht alle erkunden kann. 
 
 Drehende Winde und nicht gut sichtbare Untiefen machen den Törn natürlich nicht ganz ungefährlich, mit dem Kat haben wir natürlich nur einen Tiefgang von ca. einem halben Meter, sodass wir gut zwischen den Felsen, die nur teilweise aus dem Wasser ragen, durchnavigieren können. Die ein oder andere "Sirene" lenkt uns jedoch auch mal ab und wir entkommen einmal nur knapp den fiesen Felsen, die uns in den Bann gezogen haben. 
