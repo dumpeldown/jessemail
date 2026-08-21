@@ -10,9 +10,11 @@ date: 2026-08-14
 
 Die Insel ist schätzungsweise so groß wie ein Basketball-Feld, und hat einen kleinen einsamen Strand, auf den wir unseren Katamaran ziehen. Wir betreten die Insel und können sofort die andere Seite sehen - in der Mitte stehen einige Fichten und, besonders auffällig, ein riesiger Thermitenhügel. Die Ameisenviecher werden uns abends noch ordentlich auf den Sack gehen, aber dazu eventuell später mehr.
 
-Die Idee, mit einem Katamaran von Insel zu Insel zu schippern, war schon lange ein Funken in unserem abenteuerlichen Gehirn. Dass es endlich Realtität wurde, haben wir Williams Vater Thomas zu verdanken, der den Katamaran für uns und sein Sommerhaus in Stockholm gekauft hat. Dass Stockholm in den Schären liegt, ist natürlich ein glücklicher Zufall. 
+**Erstmal**: Hellooo und schön dass du den Weg zu meinem nächsten Abenteuerbericht gefunden hast! Ich würd dir gern mal kurz pitchen, wie ich in den Schären, einem Gebiet östlich von Stockholm bestehendend aus knapp 30.000 Insel, auf einem Katamaran irgendwo im Nirgendwo auf einer einsamen Insel "gestrandet" bin.
 
-Den Kat haben wir von Thomas 2, dem Kat-Thomas, abgekauft und zum Sommerhaus überführt (Williams Thomas hat das Sommerhaus witzigerweise mit seinem Kumpel Thomas zusammengekauft, im Folgenden haben wir also Wills Thomas, Haus-Thomas und Kat-Thomas). Unsere Base war also immer wieder Anlaufpunkt zum Auffüllen der Vorräte (der Platz auf dem Kat war offensichtlich begrenzt), sodass wir immer wieder von dort aus in eine neue Richtung starten konnten.
+Die Idee, mit einem Katamaran von Insel zu Insel zu schippern, war schon lange ein Funken in unserem abenteuerlichen Gehirn. Dass es endlich Realtität wurde, haben wir Williams Vater Thomas zu verdanken, der den Katamaran für uns und sein Sommerhaus in der Nähe von Stockholm gekauft hat. Dazu reichte tatsächlich nur ein wenig Überzeugungsarbeit, denn Thomas hattte eh schon länger von einem eigenen Segelboot geträumt. Dass Stockholm in den Schären liegt, ist natürlich ein glücklicher Zufall. 
+
+Den Kat haben wir von Thomas, dem Kat-Thomas, abgekauft und zum Sommerhaus überführt (Williams Thomas hat das Sommerhaus witzigerweise mit seinem Kumpel Thomas zusammengekauft, folglich haben wir es also mit Williams Vater Thomas, Haus-Thomas und Kat-Thomas zutun). Unsere Base war also immer wieder Anlaufpunkt zum Auffüllen der Vorräte (der Platz auf dem Kat war offensichtlich begrenzt), sodass wir immer wieder von dort aus in eine neue Richtung starten konnten.
 
 Hier unser Startbild vor der allerersten Tour:
 
@@ -68,4 +70,6 @@ Auf dem Heimweg machen wir einen touristischen Stop in Stockholm und schauen uns
 
 Zurück in Skärmarö, genauer Värmdö (Sommerhaus) bereiten wir den Kat (getauft haben wir sie übrigens "Horny Hilde", benannt nach dem aufblasbaren Schwimm-Einhorn, welches wir auf unserem Segeltörn in Südfrankreich dabei hatten) auf eine letzte Ausfahrt vor. Mit dem Packen werden wir immer besser und effizienter, sodass wir auch bei viel Wind ordentlich Gas geben können und nur einmal einen Beutel mit den Schuhen verlieren. Aber das ist halb so schlimm, denn William springt schnell hinterher, und durch unsere guten Packskills schwimmt der Sack natürlich oben und William kann sich wie an einer Boje daran festhalten. Gut, dass wir schneller wieder da sind als die Kegelrobben, die wir 10 Minuten vorher noch gesehen haben...Die sind nämlich hungrig - nicht dass sie noch anbeißen.
 
-Und so geht langsam unsere Zeit in den Ostschären vorbei. Es hat viel Spaaß gemacht und Horny Hilde wird definitiv nicht für lange alleine bleiben.
+Und so geht langsam unsere Zeit in den Ostschären vorbei. Es hat viel Spaaß gemacht und Horny Hilde wird definitiv nicht für lange alleine bleiben. Wir werden wiederkommen, mit noch mehr Lust auf Abenteuer und, wer weiß, vielleicht treffen wir nächstes mal sogar echte Wikinger...
+
+Danke, dass Du dir die Zeit genommen hast, darüber zu lesen was ich so erlebe! Und bis zum nächsten mal, was auch immer es sein mag!
