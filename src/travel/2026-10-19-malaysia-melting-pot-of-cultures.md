@@ -53,3 +53,21 @@ Zum Essen "Set C" mit Hähnchen, Reis, Sambal und frittiertem Gemüse.
 Abends der Blick von Etage 28 auf die Stadt, immer den Merdeka 118 in Sicht.
 
 ![](/assets/img/uploads/73546.jpg)
+
+# 20.10.2026 – Sunrise
+
+Im NOC (Network Operations Center) laufen die Rechner auf deutscher Systemzeit. Das Sunrise Board um 8:30 Uhr deutscher Zeit fand hier in Malaysia also erst am Nachmittag statt. Tja, die Sonne geht hier halt erst später auf 🌅
+
+![](/assets/img/uploads/73825.jpg)
+
+Beim Specialty Coffee & Matcha angekommen. Passionfruit & Mango Matcha.
+
+![](/assets/img/uploads/73842.jpg)
+
+Unterwegs im Feierabendverkehr.
+
+![](/assets/img/uploads/73854.jpg)
+
+Abends noch eine Runde durch das beleuchtete Little India gedreht.
+
+![](/assets/img/uploads/73883.jpg)
