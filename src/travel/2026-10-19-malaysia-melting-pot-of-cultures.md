@@ -12,6 +12,16 @@ Im NOC (Network Operations Center) laufen die Rechner auf deutscher Systemzeit. 
 
 Beim Specialty Coffee & Matcha angekommen. Passionfruit & Mango Matcha.
 
+<iframe
+  width="100%"
+  height="320"
+  style="border: 1px solid #ccc;"
+  loading="lazy"
+  referrerpolicy="no-referrer-when-downgrade"
+  src="https://www.openstreetmap.org/export/embed.html?bbox=101.6178%2C3.1191%2C101.6278%2C3.1291&amp;layer=mapnik&amp;marker=3.1241%2C101.6228">
+</iframe>
+<small><a href="https://www.openstreetmap.org/?mlat=3.1241&amp;mlon=101.6228#map=17/3.1241/101.6228">ONO Specialty Coffee &amp; Matcha (SS 2) auf OpenStreetMap ansehen</a></small>
+
 ![](/assets/img/uploads/73842.jpg)
 
 Unterwegs im Feierabendverkehr.

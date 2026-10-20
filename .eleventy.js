@@ -1,6 +1,11 @@
 module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/assets");
   eleventyConfig.addPassthroughCopy("CNAME");
+  eleventyConfig.amendLibrary("md", (mdLib) => {
+    mdLib.set({
+      html: true
+    });
+  });
 
   eleventyConfig.addFilter("dateDisplay", (dateObj) => {
     return new Date(dateObj).toLocaleDateString('de-DE', {
