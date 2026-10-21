@@ -1,7 +1,7 @@
 ---
 layout: layouts/base.njk
 title: Malaysia - Melting Pot of Cultures
-date: 2026-10-19
+date: 2026-10-21
 ---
 
 # 21.10.2026 – Food Tour
