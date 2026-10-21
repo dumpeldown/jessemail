@@ -20,7 +20,7 @@ Zum Abschluss Strawberry Cheesecake – Shoutout an [@ammu_bakes26](https://www.
 
 # 20.10.2026 – Sunrise
 
-Im NOC (Network Operations Center) laufen die Rechner auf deutscher Systemzeit. Das Sunrise Board um 8:30 Uhr deutscher Zeit fand hier in Malaysia also erst am Nachmittag statt. Tja, die Sonne geht hi[...]
+Im NOC (Network Operations Center) laufen die Rechner auf deutscher Systemzeit. Das Sunrise Board um 8:30 Uhr deutscher Zeit findet hier in Malaysia also erst am Nachmittag statt.
 
 ![](/assets/img/uploads/73825.jpg)
 
