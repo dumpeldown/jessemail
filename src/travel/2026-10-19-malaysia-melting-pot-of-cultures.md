@@ -4,6 +4,20 @@ title: Malaysia - Melting Pot of Cultures
 date: 2026-10-19
 ---
 
+# 21.10.2026 – Food Tour
+
+Zum Mittag klassisch Hühnchen mit Reis, Gemüse und dazu Teh O Ais Limau.
+
+![](/assets/img/uploads/73916.jpg)
+
+Später in der Mall noch ein Getränk in der Tüte mitgenommen.
+
+![](/assets/img/uploads/73931.jpg)
+
+Zum Abschluss Strawberry Cheesecake – Shoutout an [@ammu_bakes26](https://www.instagram.com/ammu_bakes26/).
+
+![](/assets/img/uploads/73934.jpg)
+
 # 20.10.2026 – Sunrise
 
 Im NOC (Network Operations Center) laufen die Rechner auf deutscher Systemzeit. Das Sunrise Board um 8:30 Uhr deutscher Zeit fand hier in Malaysia also erst am Nachmittag statt. Tja, die Sonne geht hi[...]
