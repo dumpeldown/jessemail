@@ -4,7 +4,7 @@ This document is for AI agents and technical developers working on this project.
 
 ## Project Stack
 - **Static Site Generator:** [Eleventy (11ty)](https://www.11ty.dev/) v3.
-- **CMS:** [Decap CMS](https://decapcms.org/) (Client-side, dynamic config).
+- **CMS:** SveltiaCMS
 - **Templates:** Nunjucks (`.njk`).
 - **Styling:** Vanilla CSS.
 - **Deployment:** GitHub Pages via GitHub Actions (`.github/workflows/deploy.yml`).
@@ -15,7 +15,7 @@ This document is for AI agents and technical developers working on this project.
 - **CMS Configuration:** `src/admin/config.njk`.
   - Dynamically generates `admin/config.yml`.
   - Switches `backend` to `test-repo` when `eleventy.env.runMode == "serve"`.
-  - Uses `git-gateway` (Netlify Identity/GitHub) for production.
+  - **Login:** Using GitHub PAT
 - **Custom Filters:** `.eleventy.js` contains a `dateDisplay` filter for German formatting.
 
 ## Key Workflows
@@ -23,6 +23,7 @@ This document is for AI agents and technical developers working on this project.
 - **Build:** `npm run build` (Generates production site).
 - **Admin Access:** `/admin/` (Or the 🔒 link in the footer).
 - **Content:** Markdown files in `src/cafe`, `src/gr20`, etc.
+- **Optimization:** Images are compressed in the Build Step to save on page load times.
 
 ## Guidelines for Agents
 1. **Maintain Privacy:** No external CDNs or trackers. All assets must be local in `src/assets/`.
