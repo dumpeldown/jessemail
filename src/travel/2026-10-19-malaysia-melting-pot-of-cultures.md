@@ -4,12 +4,6 @@ title: Malaysia - Melting Pot of Cultures
 date: 2026-10-21
 ---
 
-Error E40
-
-![](/assets/img/uploads/73946.jpg)
-
-Testing
-
 # 21.10.2026 – Food Tour
 
 Zum Mittag klassisch Hühnchen mit Reis, Gemüse und dazu Teh O Ais Limau.
