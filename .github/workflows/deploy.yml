@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+  workflow_dispatch: # Ermöglicht den manuellen Button-Trigger auf allen Branches
 
 permissions:
   contents: read
