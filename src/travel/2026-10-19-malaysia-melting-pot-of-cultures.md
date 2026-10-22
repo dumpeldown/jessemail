@@ -4,6 +4,20 @@ title: Malaysia - Melting Pot of Cultures
 date: 2026-10-21
 ---
 
+# 22.10.2026 – City bei Abend
+
+Abendlicher Spaziergang rund um durch KLCC mit Blick auf die Petronas Towers im Hintergrund.
+
+![](/assets/img/uploads/73974.jpg)
+
+Durch den KLCC Park gelaufen mit Blick auf die beleuchtete Mall und die Skyline.
+
+![](/assets/img/uploads/73976.jpg)
+
+Zum Abschluss gegrillte Spieße auf Reis gegessen.
+
+![](/assets/img/uploads/73978.jpg)
+
 # 21.10.2026 – Food Tour
 
 Zum Mittag klassisch Hühnchen mit Reis, Gemüse und dazu Teh O Ais Limau.
