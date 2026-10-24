@@ -23,6 +23,8 @@ Die Skyline vom Helipad mit einem Lychee Martini genossen.
 
 Und zum Nachtisch gab's Flying Pancake (Banana).
 
+![](/assets/img/uploads/PXL_20261023_131124514.jpg)
+
 # 22.10.2026 – City bei Abend
 
 Abendlicher Spaziergang rund um durch KLCC mit Blick auf die Petronas Towers im Hintergrund.
