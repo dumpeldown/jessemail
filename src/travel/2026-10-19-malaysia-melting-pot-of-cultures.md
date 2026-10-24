@@ -4,6 +4,25 @@ title: Malaysia - Melting Pot of Cultures
 date: 2026-10-21
 ---
 
+# 23.10.2026 – Budgie und Skyline
+
+Selbstfahrenden Zug (LRT) gefahren.
+![](/assets/img/uploads/74039.jpg)
+
+Nasi Lemak aus der Tütte gegessen.
+![](/assets/img/uploads/74049.jpg)
+
+Bei der Budgiefütterung mitgemacht.
+![](/assets/img/uploads/74114.jpg)
+
+Capy und Oyen besucht.
+![](/assets/img/uploads/74106.jpg)
+
+Die Skyline vom Helipad mit einem Lychee Martini genossen.
+![](/assets/img/uploads/74140.jpg)
+
+Und zum Nachtisch gab's Flying Pancake (Banana).
+
 # 22.10.2026 – City bei Abend
 
 Abendlicher Spaziergang rund um durch KLCC mit Blick auf die Petronas Towers im Hintergrund.
