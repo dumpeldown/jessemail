@@ -10,16 +10,16 @@ Hazy Sonnenuntergang über dem Street market.
 ![](/assets/img/uploads/74278.jpg)
 
 Spiderman erholt sich noch von seiner Nachtshift.
-![]()
+![](/assets/img/uploads/74279.jpg)
 
 Flussrundfahrt auf dem Malacca River.
-![]()
+
 
 Echt leckeren Crab Burger gegessen.
-![]()
+
 
 Den Abend am Dutch Square mit Pastel de Nata (Malacca war mal Portugiesisch, Niederländisch und Britisch besetzt) ausklingen lassen.
-![]()
+
 
 # 23.10.2026 – Budgie und Skyline
 
