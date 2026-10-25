@@ -13,13 +13,13 @@ Spiderman erholt sich noch von seiner Nachtshift.
 ![](/assets/img/uploads/74279.jpg)
 
 Flussrundfahrt auf dem Malacca River.
-
+![](/assets/img/uploads/74287.jpg)
 
 Echt leckeren Crab Burger gegessen.
-
+![](/assets/img/uploads/74307.jpg)
 
 Den Abend am Dutch Square mit Pastel de Nata (Malacca war mal Portugiesisch, Niederländisch und Britisch besetzt) ausklingen lassen.
-
+![](/assets/img/uploads/74316.jpg)
 
 # 23.10.2026 – Budgie und Skyline
 
