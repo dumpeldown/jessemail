@@ -4,6 +4,23 @@ title: Malaysia - Melting Pot of Cultures
 date: 2026-10-21
 ---
 
+# 24.10.2026 - Off-Duty Spiderman
+
+Hazy Sonnenuntergang über dem Street market.
+![]()
+
+Spiderman erholt sich noch von seiner Nachtshift.
+![]()
+
+Flussrundfahrt auf dem Malacca River.
+![]()
+
+Echt leckeren Crab Burger gegessen.
+![]()
+
+Den Abend am Dutch Square mit Pastel de Nata (Malacca war mal Portugiesisch, Niederländisch und Britisch besetzt) ausklingen lassen.
+![]()
+
 # 23.10.2026 – Budgie und Skyline
 
 Selbstfahrenden Zug (LRT) gefahren.
