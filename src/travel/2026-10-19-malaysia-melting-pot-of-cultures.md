@@ -7,7 +7,7 @@ date: 2026-10-21
 # 24.10.2026 - Off-Duty Spiderman
 
 Hazy Sonnenuntergang über dem Street market.
-![]()
+![](/assets/img/uploads/74278.jpg)
 
 Spiderman erholt sich noch von seiner Nachtshift.
 ![]()
