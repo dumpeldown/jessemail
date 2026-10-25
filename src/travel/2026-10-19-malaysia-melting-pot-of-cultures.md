@@ -21,6 +21,19 @@ Echt leckeren Crab Burger gegessen.
 Den Abend am Dutch Square mit Pastel de Nata (Malacca war mal Portugiesisch, Niederländisch und Britisch besetzt) ausklingen lassen.
 ![](/assets/img/uploads/74316.jpg)
 
+<iframe 
+  width="100%" 
+  height="300" 
+  frameborder="0" 
+  scrolling="no" 
+  marginheight="0" 
+  marginwidth="0" 
+  src="https://www.openstreetmap.org/export/embed.html?bbox=102.246154%2C2.191060%2C102.252154%2C2.197060&amp;layer=mapnik&amp;marker=2.194060%2C102.249154">
+</iframe>
+<br>
+<small><a href="https://www.openstreetmap.org/?mlat=2.194060&mlon=102.249154#map=17/2.194060/102.249154" target="_blank" rel="noopener noreferrer">Größere Karte anzeigen</a></small>
+
+
 # 23.10.2026 – Budgie und Skyline
 
 Selbstfahrenden Zug (LRT) gefahren.
