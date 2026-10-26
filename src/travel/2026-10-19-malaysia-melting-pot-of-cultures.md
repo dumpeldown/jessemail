@@ -4,6 +4,20 @@ title: Malaysia - Melting Pot of Cultures
 date: 2026-10-21
 ---
 
+# 25.10.2026 – Malakka
+
+Morgens laufen bei 30 °C.
+
+![]()
+
+Mamee Monster – du siehst aus wie ich mich fühle.
+
+![]()
+
+Abends an der Floating Mosque (Masjid Selat Melaka).
+
+![]()
+
 # 24.10.2026 - Off-Duty Spiderman
 
 Hazy Sonnenuntergang über dem Street market.
@@ -32,7 +46,6 @@ Den Abend am Dutch Square mit Pastel de Nata (Malacca war mal Portugiesisch, Nie
 </iframe>
 <br>
 <small><a href="https://www.openstreetmap.org/?mlat=2.194060&mlon=102.249154#map=17/2.194060/102.249154" target="_blank" rel="noopener noreferrer">Größere Karte anzeigen</a></small>
-
 
 # 23.10.2026 – Budgie und Skyline
 
