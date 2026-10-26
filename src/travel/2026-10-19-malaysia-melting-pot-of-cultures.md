@@ -4,6 +4,23 @@ title: Malaysia - Melting Pot of Cultures
 date: 2026-10-21
 ---
 
+# 26.10.2026 – Klarsicht
+
+Giraffenhals als Schornstein – kreative Street-Art in den Gassen von Malakka.
+![](/assets/img/uploads/74525.jpg)
+
+Hainanese Chicken Rice Balls. 
+![](/assets/img/uploads/74453.jpg)
+
+Endlich wieder eine bessere Aussicht mit deutlich besserer Luftqualität in KL – Blick auf den beleuchteten Thean Hou Tempel.
+![](/assets/img/uploads/74588.jpg)
+
+Shoutout an: 
+
+* Maria vom [The Pillohouzzze](https://maps.google.com/?cid=14656014219226193631) für die Gastfreundschaft
+* Taxifahrerin Anna für die Tipps  
+* Nadia für ihre Fotos (IG: [@nadia_kavaliova](https://www.instagram.com/nadia_kavaliova/)).
+
 # 25.10.2026 – Malakka
 
 Morgens laufen bei 30 °C.
