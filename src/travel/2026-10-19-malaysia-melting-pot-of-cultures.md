@@ -7,16 +7,13 @@ date: 2026-10-21
 # 25.10.2026 – Malakka
 
 Morgens laufen bei 30 °C.
-
-![]()
+![](/assets/img/uploads/74392.jpg)
 
 Mamee Monster – du siehst aus wie ich mich fühle.
-
-![]()
+![](/assets/img/uploads/74422.jpg)
 
 Abends an der Floating Mosque (Masjid Selat Melaka).
-
-![]()
+![](/assets/img/uploads/74481.jpg)
 
 # 24.10.2026 - Off-Duty Spiderman
 
