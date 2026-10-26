@@ -15,6 +15,17 @@ Hainanese Chicken Rice Balls.
 Endlich wieder eine bessere Aussicht mit deutlich besserer Luftqualität in KL – Blick auf den beleuchteten Thean Hou Tempel.
 ![](/assets/img/uploads/74588.jpg)
 
+<iframe 
+  width="100%" 
+  height="300" 
+  frameborder="0" 
+  scrolling="no" 
+  marginheight="0" 
+  marginwidth="0" 
+  src="https://www.openstreetmap.org/export/embed.html?bbox=101.6840%2C3.1180%2C101.6940%2C3.1280&amp;layer=mapnik&amp;marker=3.1230%2C101.6890">
+</iframe>
+<small><a href="https://www.openstreetmap.org/?mlat=3.1230&mlon=101.6890#map=17/3.1230/101.6890" target="_blank" rel="noopener noreferrer">Thean Hou Temple auf OpenStreetMap anzeigen</a></small>
+
 Shoutout an: 
 
 * Maria vom [The Pillohouzzze](https://maps.google.com/?cid=14656014219226193631) für die Gastfreundschaft
@@ -31,6 +42,18 @@ Mamee Monster – du siehst aus wie ich mich fühle.
 
 Abends an der Floating Mosque (Masjid Selat Melaka).
 ![](/assets/img/uploads/74481.jpg)
+
+<iframe 
+  width="100%" 
+  height="300" 
+  frameborder="0" 
+  scrolling="no" 
+  marginheight="0" 
+  marginwidth="0" 
+  src="https://www.openstreetmap.org/export/embed.html?bbox=102.2450%2C2.1760%2C102.2550%2C2.1860&amp;layer=mapnik&amp;marker=2.1810%2C102.2500">
+</iframe>
+<small><a href="https://www.openstreetmap.org/?mlat=2.1810&mlon=102.2500#map=17/2.1810/102.2500" target="_blank" rel="noopener noreferrer">Masjid Selat Melaka auf OpenStreetMap anzeigen</a></small>
+
 
 # 24.10.2026 - Off-Duty Spiderman
 
