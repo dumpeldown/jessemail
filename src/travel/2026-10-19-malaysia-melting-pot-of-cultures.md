@@ -1,8 +1,34 @@
 ---
 layout: layouts/base.njk
 title: Malaysia - Melting Pot of Cultures
-date: 2026-10-21
+date: 2026-10-27
 ---
+
+# 27.10.2026 – Stair Stepper
+
+Das erste Mal Sonnenaufgang beobachtet. Danke an alle, die bei Boost Juice den Haze Buster getrunken haben (die Luftqualität war heute echt super!).
+![](/assets/img/uploads/74623.jpg)
+
+Batu Caves.
+![](/assets/img/uploads/74677.jpg)
+
+Die Sicht von oben - 272 Stufen später.
+![](/assets/img/uploads/74660.jpg)
+
+Danach das lang ersehnte Banana Leaf Chicken Biryani bei [Oh Yeah Banana Leaf](https://maps.google.com/?cid=18335017112028820047).
+![](/assets/img/uploads/74674.jpg)
+
+<iframe 
+  width="100%" 
+  height="300" 
+  frameborder="0" 
+  scrolling="no" 
+  marginheight="0" 
+  marginwidth="0" 
+  src="https://www.openstreetmap.org/export/embed.html?bbox=101.6790%2C3.2324%2C101.6890%2C3.2424&amp;layer=mapnik&amp;marker=3.2374%2C101.6840">
+</iframe>
+<br>
+<small><a href="https://www.openstreetmap.org/?mlat=3.2374&mlon=101.6840#map=17/3.2374/101.6840" target="_blank" rel="noopener noreferrer">Batu Caves & Oh Yeah Banana Leaf auf der Karte anzeigen</a></small>
 
 # 26.10.2026 – Klarsicht
 
@@ -53,7 +79,6 @@ Abends an der Floating Mosque (Masjid Selat Melaka).
   src="https://www.openstreetmap.org/export/embed.html?bbox=102.2450%2C2.1760%2C102.2550%2C2.1860&amp;layer=mapnik&amp;marker=2.1810%2C102.2500">
 </iframe>
 <small><a href="https://www.openstreetmap.org/?mlat=2.1810&mlon=102.2500#map=17/2.1810/102.2500" target="_blank" rel="noopener noreferrer">Masjid Selat Melaka auf OpenStreetMap anzeigen</a></small>
-
 
 # 24.10.2026 - Off-Duty Spiderman
 
