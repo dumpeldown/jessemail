@@ -4,6 +4,20 @@ title: Malaysia - Melting Pot of Cultures
 date: 2026-10-27
 ---
 
+# 28.10.2026 – Daily
+
+Parkhaus Eingang nur für Motorräder.
+![](/assets/img/uploads/74705.jpg)
+
+"All good, Bernd."
+![](/assets/img/uploads/74715.jpg)
+
+Night Run.
+![](/assets/img/uploads/74725.jpg)
+
+Jam.
+![](/assets/img/uploads/74741.jpg)
+
 # 27.10.2026 – Stair Stepper
 
 Das erste Mal Sonnenaufgang beobachtet. Danke an alle, die bei Boost Juice den Haze Buster getrunken haben (die Luftqualität war heute echt super!).
