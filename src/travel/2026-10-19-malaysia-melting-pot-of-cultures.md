@@ -4,22 +4,44 @@ title: Malaysia - Melting Pot of Cultures
 date: 2026-10-31
 ---
 
-Bilder folgen.
+# 31.10.2026 – Highlander
+
+Planet der Affen.
+![](/assets/img/uploads/74969.jpg)
+
+Ice Age.
+![](/assets/img/uploads/74961.jpg)
+
+Und Buddha.
+![](/assets/img/uploads/75011.jpg)
+
+\<iframe 
+  width="100%" 
+  height="300" 
+  frameborder="0" 
+  scrolling="no" 
+  marginheight="0" 
+  marginwidth="0" 
+  src="https://www.openstreetmap.org/export/embed.html?bbox=101.7833%2C3.4082%2C101.7933%2C3.4182&amp;layer=mapnik&amp;marker=3.4132%2C101.7883">
+\</iframe>
+\<br>
+\<small>\<a href="https://www.openstreetmap.org/?mlat=3.4132&mlon=101.7883#map=17/3.4132/101.7883" target="\_blank" rel="noopener noreferrer">Chin Swee Caves Temple auf OpenStreetMap anzeigen\</a>\</small>
+
 # 30.10.2026 – Präsentation
 
 Süß Sauer Fisch.
-![]()
+![](/assets/img/uploads/74890.jpg)
 
 Anderes Wildes Tier.
-![]()
+![](/assets/img/uploads/74898.jpg)
 
 Anderes Wildes Bier.
-![]()
+![](/assets/img/uploads/74884.jpg)
 
 # 29.10.2026 – Foxtrot
 
 Viele malaysische Memes geguckt.
-![]()
+![](/assets/img/uploads/74816.jpg)
 
 Und später noch im Gym 45min Cardio reingezwirbelt.
 
