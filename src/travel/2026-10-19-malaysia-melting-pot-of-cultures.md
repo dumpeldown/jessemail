@@ -15,7 +15,7 @@ Ice Age.
 Und Buddha.
 ![](/assets/img/uploads/75011.jpg)
 
-\<iframe 
+<iframe 
   width="100%" 
   height="300" 
   frameborder="0" 
@@ -23,11 +23,11 @@ Und Buddha.
   marginheight="0" 
   marginwidth="0" 
   src="https://www.openstreetmap.org/export/embed.html?bbox=101.7833%2C3.4082%2C101.7933%2C3.4182&amp;layer=mapnik&amp;marker=3.4132%2C101.7883">
-\</iframe>
-\<br>
-\<small>\<a href="https://www.openstreetmap.org/?mlat=3.4132&mlon=101.7883#map=17/3.4132/101.7883" target="\_blank" rel="noopener noreferrer">Chin Swee Caves Temple auf OpenStreetMap anzeigen\</a>\</small>
+</iframe>
+<br>
+<small><a href="https://www.openstreetmap.org/?mlat=3.4132&mlon=101.7883#map=17/3.4132/101.7883" target="_blank" rel="noopener noreferrer">Chin Swee Caves Temple auf OpenStreetMap anzeigen</a></small>
 
-# 30.10.2026 – Präsentation
+## 30.10.2026 – Präsentation
 
 Süß Sauer Fisch.
 ![](/assets/img/uploads/74890.jpg)
