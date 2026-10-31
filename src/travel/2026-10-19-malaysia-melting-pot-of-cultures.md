@@ -22,10 +22,10 @@ Und Buddha.
   scrolling="no" 
   marginheight="0" 
   marginwidth="0" 
-  src="https://www.openstreetmap.org/export/embed.html?bbox=101.7833%2C3.4082%2C101.7933%2C3.4182&amp;layer=mapnik&amp;marker=3.4132%2C101.7883">
+  src="https://www.openstreetmap.org/export/embed.html?bbox=101.7831%2C3.4205%2C101.7931%2C3.4305&amp;layer=mapnik&amp;marker=3.4255%2C101.7881">
 </iframe>
 <br>
-<small><a href="https://www.openstreetmap.org/?mlat=3.4132&mlon=101.7883#map=17/3.4132/101.7883" target="_blank" rel="noopener noreferrer">Chin Swee Caves Temple auf OpenStreetMap anzeigen</a></small>
+<small><a href="https://www.openstreetmap.org/?mlat=3.4255&mlon=101.7881#map=17/3.4255/101.7881" target="_blank" rel="noopener noreferrer">Chin Swee Caves Temple auf OpenStreetMap anzeigen</a></small>
 
 ## 30.10.2026 – Präsentation
 
