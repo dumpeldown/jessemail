@@ -1,8 +1,27 @@
 ---
 layout: layouts/base.njk
 title: Malaysia - Melting Pot of Cultures
-date: 2026-10-27
+date: 2026-10-31
 ---
+
+Bilder folgen.
+# 30.10.2026 – Präsentation
+
+Süß Sauer Fisch.
+![]()
+
+Anderes Wildes Tier.
+![]()
+
+Anderes Wildes Bier.
+![]()
+
+# 29.10.2026 – Foxtrot
+
+Viele malaysische Memes geguckt.
+![]()
+
+Und später noch im Gym 45min Cardio reingezwirbelt.
 
 # 28.10.2026 – Daily
 
