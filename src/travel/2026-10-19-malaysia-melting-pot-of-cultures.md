@@ -1,8 +1,42 @@
 ---
 layout: layouts/base.njk
 title: Malaysia - Melting Pot of Cultures
-date: 2026-10-31
+date: 2026-11-02
 ---
+
+# 2.11.2026 – 118
+
+Von Entfernung, mit Kunst augmentiert.
+![](/assets/img/uploads/75257.jpg)
+
+Am Fuße des Giganten. (Ja, drinnen war ich auch)
+![](/assets/img/uploads/75277.jpg)
+
+Und von meinem Balkon ist er auch zu sehen.
+
+![](/assets/img/uploads/75291.jpg)
+
+<iframe 
+  width="100%" 
+  height="300" 
+  frameborder="0" 
+  scrolling="no" 
+  marginheight="0" 
+  marginwidth="0" 
+  src="https://www.openstreetmap.org/export/embed.html?bbox=101.6956%2C3.1363%2C101.7056%2C3.1463&amp;layer=mapnik&amp;marker=3.1413%2C101.7006">
+</iframe>
+<br>
+<small><a href="https://www.openstreetmap.org/?mlat=3.1413&mlon=101.7006#map=17/3.1413/101.7006" target="_blank" rel="noopener noreferrer">Merdeka 118 auf OpenStreetMap anzeigen</a></small>
+
+# 1.11.2026 – Private Property
+
+Should I stay or should I go?
+![](/assets/img/uploads/75085.jpg)
+
+Heute nur den Bukit Chin Chin hinauf spaziert.
+![](/assets/img/uploads/75086.jpg)
+
+Was machen wir gegen die Hitze? Gekühlte Rolltreppen durch den Wald!
 
 # 31.10.2026 – Highlander
 
@@ -15,6 +49,9 @@ Ice Age.
 Und Buddha.
 ![](/assets/img/uploads/75011.jpg)
 
+Zwischenstopp beim Chin Swee Caves Temple mit beeindruckendem Buddha und Höllenweg.
+![](/assets/img/uploads/74750.jpg)
+
 <iframe 
   width="100%" 
   height="300" 
@@ -22,10 +59,10 @@ Und Buddha.
   scrolling="no" 
   marginheight="0" 
   marginwidth="0" 
-  src="https://www.openstreetmap.org/export/embed.html?bbox=101.7831%2C3.4205%2C101.7931%2C3.4305&amp;layer=mapnik&amp;marker=3.4255%2C101.7881">
+  src="https://www.openstreetmap.org/export/embed.html?bbox=101.7830%2C3.4193%2C101.7930%2C3.4293&amp;layer=mapnik&amp;marker=3.4243%2C101.7880">
 </iframe>
 <br>
-<small><a href="https://www.openstreetmap.org/?mlat=3.4255&mlon=101.7881#map=17/3.4255/101.7881" target="_blank" rel="noopener noreferrer">Chin Swee Caves Temple auf OpenStreetMap anzeigen</a></small>
+<small><a href="https://www.openstreetmap.org/?mlat=3.4243&mlon=101.7880#map=17/3.4243/101.7880" target="_blank" rel="noopener noreferrer">Chin Swee Caves Temple auf OpenStreetMap anzeigen</a></small>
 
 ## 30.10.2026 – Präsentation
 
