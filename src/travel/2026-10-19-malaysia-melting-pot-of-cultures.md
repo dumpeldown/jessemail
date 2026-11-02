@@ -30,13 +30,15 @@ Und von meinem Balkon ist er auch zu sehen.
 
 # 1.11.2026 – Private Property
 
-Should I stay or should I go?
+Should I stay or should I go? _Of course I go!_
 ![](/assets/img/uploads/75085.jpg)
 
 Heute nur den Bukit Chin Chin hinauf spaziert.
 ![](/assets/img/uploads/75086.jpg)
 
 Was machen wir gegen die Hitze? Gekühlte Rolltreppen durch den Wald!
+
+![](/assets/img/uploads/75104.jpg)
 
 # 31.10.2026 – Highlander
 
@@ -49,20 +51,20 @@ Ice Age.
 Und Buddha.
 ![](/assets/img/uploads/75011.jpg)
 
-Zwischenstopp beim Chin Swee Caves Temple mit beeindruckendem Buddha und Höllenweg.
-![](/assets/img/uploads/74750.jpg)
+Hunter dem Wasserfall beim Chin Swee Caves Temple auf dem Höllenweg.
+![](/assets/img/uploads/75007.jpg)
 
-<iframe 
+\<iframe 
   width="100%" 
   height="300" 
   frameborder="0" 
   scrolling="no" 
   marginheight="0" 
   marginwidth="0" 
-  src="https://www.openstreetmap.org/export/embed.html?bbox=101.7830%2C3.4193%2C101.7930%2C3.4293&amp;layer=mapnik&amp;marker=3.4243%2C101.7880">
-</iframe>
-<br>
-<small><a href="https://www.openstreetmap.org/?mlat=3.4243&mlon=101.7880#map=17/3.4243/101.7880" target="_blank" rel="noopener noreferrer">Chin Swee Caves Temple auf OpenStreetMap anzeigen</a></small>
+  src="https://www.openstreetmap.org/export/embed.html?bbox=101.7831%2C3.4077%2C101.7931%2C3.4177&amp;layer=mapnik&amp;marker=3.4127408%2C101.7881498">
+\</iframe>
+\<br>
+\<small>\<a href="https://www.openstreetmap.org/?mlat=3.4127408&mlon=101.7881498#map=17/3.4127408/101.7881498" target="\_blank" rel="noopener noreferrer">Chin Swee Caves Temple auf OpenStreetMap anzeigen\</a>\</small>
 
 ## 30.10.2026 – Präsentation
 
