@@ -1,8 +1,18 @@
 ---
 layout: layouts/base.njk
 title: Malaysia - Melting Pot of Cultures
-date: 2026-11-02
+date: 2026-11-04
 ---
+
+# 4.11.2026 – BAU
+
+Welcome from Bangsar South.
+![](/assets/img/uploads/75420.jpg)
+![](/assets/img/uploads/75427.jpg)
+
+# 3.11.2026 – No News from Paradies
+
+Mittags mit Yizhou und Divya essen, Bild folgt vielleicht.
 
 # 2.11.2026 – 118
 
@@ -54,7 +64,7 @@ Und Buddha.
 Hunter dem Wasserfall beim Chin Swee Caves Temple auf dem Höllenweg.
 ![](/assets/img/uploads/75007.jpg)
 
-\<iframe 
+<iframe 
   width="100%" 
   height="300" 
   frameborder="0" 
@@ -62,9 +72,8 @@ Hunter dem Wasserfall beim Chin Swee Caves Temple auf dem Höllenweg.
   marginheight="0" 
   marginwidth="0" 
   src="https://www.openstreetmap.org/export/embed.html?bbox=101.7831%2C3.4077%2C101.7931%2C3.4177&amp;layer=mapnik&amp;marker=3.4127408%2C101.7881498">
-\</iframe>
-\<br>
-\<small>\<a href="https://www.openstreetmap.org/?mlat=3.4127408&mlon=101.7881498#map=17/3.4127408/101.7881498" target="\_blank" rel="noopener noreferrer">Chin Swee Caves Temple auf OpenStreetMap anzeigen\</a>\</small>
+</iframe>
+<br><small><a href="https://www.openstreetmap.org/?mlat=3.4127408&mlon=101.7881498#map=17/3.4127408/101.7881498" target="\blank" rel="noopener noreferrer">Chin Swee Caves Temple auf OpenStreetMap anzeigen</a></small>
 
 ## 30.10.2026 – Präsentation
 
