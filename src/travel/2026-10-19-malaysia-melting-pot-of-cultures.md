@@ -4,6 +4,25 @@ title: Malaysia - Melting Pot of Cultures
 date: 2026-11-04
 ---
 
+# 6.11.2026 – High/High
+
+Ob der so trocken bleibt?
+![](/assets/img/uploads/75691.jpg)
+
+Merdeka hinter Bangunan Sultan Abdul Samad
+![](/assets/img/uploads/75693.jpg)
+
+# 5.11.2026 – Coffee & Rain
+
+Feierabend Kaffee.
+![](/assets/img/uploads/75529.jpg)
+
+Meine Nachbarschaft während dem Regen.
+![](/assets/img/uploads/75551.jpg)
+
+Und nach dem Regen.
+![](/assets/img/uploads/75561.jpg)
+
 # 4.11.2026 – BAU
 
 Welcome from Bangsar South.
