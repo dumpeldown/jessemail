@@ -1,16 +1,26 @@
 ---
 layout: layouts/base.njk
 title: Malaysia - Melting Pot of Cultures
-date: 2026-11-08
+date: 2026-11-09
 ---
 
 # 8.11.2026 - Bewegung
 
 6:00am - Banana Cake & Redbull
+
+
 6:30am @ Penang Hill Talstation
+
+
 7:00am - Sonnenaufgang
+
+![](/assets/img/uploads/76029.jpg)
 9:00am - Unterwegs durch den Jungle 🦄
+
+![](/assets/img/uploads/76043.jpg)
 10:00am - Die Spitze des Penang Hill erreicht
+
+
 11:00am @ Penang Hill Talstation
 ![](/assets/img/uploads/76254.png)
 
