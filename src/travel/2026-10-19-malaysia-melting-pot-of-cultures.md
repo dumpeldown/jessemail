@@ -1,8 +1,29 @@
 ---
 layout: layouts/base.njk
 title: Malaysia - Melting Pot of Cultures
-date: 2026-11-09
+date: 2026-11-13
 ---
+
+# 12.11.2026 - Mutig sein
+
+KL'sche Colonius
+![](/assets/img/uploads/76628.jpg)
+
+Haben wir genug Klimas? Eine noch?
+![](/assets/img/uploads/76544.jpg)
+
+# 11.11.2026 - Hangover in Kölle Lumpur
+
+Pills.
+![](/assets/img/uploads/76625.jpg)
+
+Views
+![](/assets/img/uploads/76496.jpg)
+
+# 10.11.2026 - Muss nicht sein
+
+Ein paar Stunden im Pantai Hospital verbracht, Antibiotika und NaCi IV bekommen.
+Am Tag vorher hat das hungrige Katzentier wohl was falsches gegessen...
 
 # 9.11.2026 - Hungriges ~~Tapir~~ Katzentier
 
