@@ -4,13 +4,34 @@ title: Malaysia - Melting Pot of Cultures
 date: 2026-11-15
 ---
 
-# 14.11.2026
+# 15.11.2026 - Black Tiger
+
+Besuch im Mossy Forest
+<iframe 
+  width="100%" 
+  height="300" 
+  frameborder="0" 
+  scrolling="no" 
+  marginheight="0" 
+  marginwidth="0" 
+  src="https://www.openstreetmap.org/export/embed.html?bbox=101.3739%2C4.5162%2C101.3899%2C4.5322&amp;layer=mapnik&amp;marker=4.5242%2C101.3819">
+</iframe>
+<br>
+<small><a href="https://www.openstreetmap.org/?mlat=4.5242&mlon=101.3819#map=16/4.5242/101.3819" target="_blank" rel="noopener noreferrer">Mossy Forest (Cameron Highlands) auf OpenStreetMap anzeigen</a></small>
+
+Cobra Lily _Arisaema filiforme_
+![](/assets/img/uploads/77059.jpg)
+
+41 verschiedene Arten von Moos und schöne Farne.
+![](/assets/img/uploads/77045.jpg)
+
+# 14.11.2026 - Butter Chicken
 
 So wird der Schnee von letztem Jahr überwintert.
 ![](/assets/img/uploads/76732.jpg)
 _Faktencheck_: [Das letzte Mal hat es in den Cameron Highlands angeblich 1937 geschneit.](https://www.therakyatpost.com/news/malaysia/2025/01/16/the-ghost-of-winter-past-when-snow-fell-on-cameron-highlands)
 
-Wie das Hollywood Sign von Tanah Rata.
+Hollywood Sign von Tanah Rata.
 ![](/assets/img/uploads/76750.jpg)
 
 # 13.11.2026 - Langsam rollen
