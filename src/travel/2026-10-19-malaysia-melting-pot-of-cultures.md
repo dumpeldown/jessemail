@@ -1,10 +1,27 @@
 ---
 layout: layouts/base.njk
 title: Malaysia - Melting Pot of Cultures
-date: 2026-11-13
+date: 2026-11-15
 ---
 
-# 12.11.2026 - Mutig sein
+# 14.11.2026
+
+So wird der Schnee von letztem Jahr überwintert.
+![](/assets/img/uploads/76732.jpg)
+_Faktencheck_: [Das letzte Mal hat es in den Cameron Highlands angeblich 1937 geschneit.](https://www.therakyatpost.com/news/malaysia/2025/01/16/the-ghost-of-winter-past-when-snow-fell-on-cameron-highlands)
+
+Wie das Hollywood Sign von Tanah Rata.
+![](/assets/img/uploads/76750.jpg)
+
+# 13.11.2026 - Langsam rollen
+
+Trailerkundung am Bukit Kiara.
+![](/assets/img/uploads/76647.jpg)
+
+Nachts, Alleine & im Vorstadtdschungel.
+![](/assets/img/uploads/76969.jpg)
+
+# 12.11.2026 - Mutig bleiben
 
 KL'sche Colonius
 ![](/assets/img/uploads/76628.jpg)
