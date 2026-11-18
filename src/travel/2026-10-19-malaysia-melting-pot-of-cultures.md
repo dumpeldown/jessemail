@@ -1,8 +1,26 @@
 ---
 layout: layouts/base.njk
 title: Malaysia - Melting Pot of Cultures
-date: 2026-11-15
+date: 2026-11-18
 ---
+
+# 18.11.2026 - Dry Run
+
+Im Sommer gegen Sonne, jetzt gegen Regen.
+![](/assets/img/uploads/77551.jpg)
+
+Keine Dry Runs ('Trockenlauf') hier während Monsoon Season. Aber immer mit Sonnenuntergang.
+![](/assets/img/uploads/77550.jpg)
+
+# 17.11.2026 - Mall Tour
+
+![](/assets/img/uploads/77488.jpg)
+
+![](/assets/img/uploads/77491.jpg)
+
+# 16.11.2026 - 11:11
+
+11:11h Schlaf, auf mal nötig.
 
 # 15.11.2026 - Black Tiger
 
