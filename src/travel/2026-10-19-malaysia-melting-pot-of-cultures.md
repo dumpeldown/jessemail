@@ -1,8 +1,26 @@
 ---
 layout: layouts/base.njk
 title: Malaysia - Melting Pot of Cultures
-date: 2026-11-18
+date: 2026-11-20
 ---
+
+# 20.11.2026 - Kampung
+
+Heute unterwegs in Malaysias Hochgeschwindigkeitszug - ETS.
+In die Stadt Tampin, was gibt es hier wohl zu entdecken?
+![](/assets/img/uploads/77668.jpg)
+
+Auf jeden Fall machen sie leckere Hotdogs!
+![](/assets/img/uploads/77673.jpg)
+
+# 19.11.2026 - Kaya und Condor
+
+Der liebe Kaya-Mann hat mir heute morgen beim Brot geschmiert.
+![](/assets/img/uploads/77586.jpg)
+
+Veggie Sushi im Luxus Condominium mit Skyline Blick.
+
+![](/assets/img/uploads/77608.jpg)
 
 # 18.11.2026 - Dry Run
 
