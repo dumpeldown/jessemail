@@ -4,6 +4,42 @@ title: Malaysia - Melting Pot of Cultures
 date: 2026-11-20
 ---
 
+# 24.11.2026 - Futter
+
+'Warum redet der immer nur über Essen?!'
+Aber hast du schonmal einen Subway Foodtruck gesehen?
+![](/assets/img/uploads/78316.jpg)
+
+Und als Ausgleich für das ganze westliche Essen gab's dann [Nasi Kandar.](https://en.wikipedia.org/wiki/Nasi_kandar)
+![](/assets/img/uploads/78334.jpg)
+
+# 23.11.2026 - Pizza & Bobo
+
+What I eat in a day:
+
+- Strawberry Frosted Donut
+- Cinnamon Donut
+- Mittags, wie immer, Reis mit Lamm oder Hühnchen
+- Pizza Hut Salami Pizza
+- Strawberry Bobo, Least Sugar, Normal Ice
+
+# 22.11.2026 - Immer Bukit
+
+Leider war alleine wandern auf den Bukit Angsi oder Bukit Datuk nicht möglich, weil ein Guide benötigt ist.
+Daher dann "nur" 500 Höhenmeter auf den Bukit Tampin.
+![](/assets/img/uploads/77992.jpg)
+
+Ich sags ja, Katze müsste man sein...
+![](/assets/img/uploads/78023.jpg)
+
+# 21.11.2026 - Steinhöhle
+
+Heute mit Ikmal (Guide) unterwegs in der Gua Batu Maloi.
+![](/assets/img/uploads/77813.jpg)
+
+4/24 Checkpoints erreicht
+![](/assets/img/uploads/77775.jpg)
+
 # 20.11.2026 - Kampung
 
 Heute unterwegs in Malaysias Hochgeschwindigkeitszug - ETS.
