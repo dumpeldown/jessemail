@@ -1,8 +1,45 @@
 ---
 layout: layouts/base.njk
 title: Malaysia - Melting Pot of Cultures
-date: 2026-11-20
+date: 2026-11-28
 ---
+
+# 28.11.2026 - Imagine
+
+Heute Stadtteil Spaziergang durch Sentul.
+![](/assets/img/uploads/78529.jpg)
+![](/assets/img/uploads/78553.jpg)
+![](/assets/img/uploads/78542.jpg)
+![](/assets/img/uploads/78548.jpg)
+![](/assets/img/uploads/78559.jpg)
+![](/assets/img/uploads/78572.jpg)
+![](/assets/img/uploads/78584.jpg)
+
+# 27.11.2026 - Harry Potter
+
+Nach Diwali kommt direkt die Weihnachtsdekoration raus.
+![](/assets/img/uploads/78493.jpg)
+
+# 26.11.2026 - Abkürzung
+
+Gibt Miami Vibes.
+![](/assets/img/uploads/78428.jpg)
+
+Gibt Ghetto Vibes.
+![](/assets/img/uploads/78439.jpg)
+
+Über die Planke muss man gehen um eine Abkürzung  von 1.2km zu machen.
+![](/assets/img/uploads/78447.jpg)
+
+# 25.11.2026 - Verdauungsspaziergang 
+
+Taman Jaya Park.
+![](/assets/img/uploads/78374.jpg)
+
+![](/assets/img/uploads/78376.jpg)
+
+Abends irgendwo zwischen Pasar Seni und Dangsi Wangsi oder so.
+![](/assets/img/uploads/78394.jpg)
 
 # 24.11.2026 - Futter
 
